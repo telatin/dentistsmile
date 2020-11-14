@@ -6,25 +6,24 @@ url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
-hero: 
+hero:
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Dentista a Fontaniva
+    hero_description: Il sorriso sulla bocca della tua famiglia
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 049 594 21 80
+    email: dentista@fontaniva.net
+    address: Piazzetta Arma di Cavalleria, 4 <br> Fontaniva (Padova)
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 9:30 – 18:00
+saturday: Chiuso
+sunday: Chiuso
 
 # Testimonials
 testimonials:
@@ -33,7 +32,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Piazzetta Arma di Cavalleria 4, Fontaniva, Padova
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -45,7 +44,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2020 Stefania Rinaldi - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -61,5 +60,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:

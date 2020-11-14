@@ -54,16 +54,12 @@ layout: default
         <table>
             <tbody>
                 <tr>
-                    <td>Monday – Friday</td>
+                    <td>Luned&igrave; – Venerd&igrave;</td>
                     <td>{{ site.monday_friday }}</td>
                 </tr>
                 <tr>
-                    <td>Saturday</td>
+                    <td>Sabato e Domenica</td>
                     <td>{{ site.saturday }}</td>
-                </tr>
-                <tr>
-                    <td>Sunday</td>
-                    <td>{{ site.sunday }}</td>
                 </tr>
             </tbody>
         </table>
@@ -216,5 +212,10 @@ layout: default
 -->
 
 <!-- Start Map -->
+<div id="location" class="hero" style="background: url('{{ site.baseurl }}/img/map.png') no-repeat; background-size: cover;">
+</div>
+
+<!--
 <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+-->
 <!-- End Map -->

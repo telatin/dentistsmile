@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero:
     hero_img: hero.jpg
-    hero_title: Dentista a Fontaniva
-    hero_description: Il sorriso sulla bocca della tua famiglia
+    hero_title: Dott. Stefania Rinaldi
+    hero_description: Dentista a Fontaniva - Il sorriso sulla bocca della tua famiglia
 
 # Contact form
 api_token: # Enter API token here
@@ -36,11 +36,11 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+#facebook: http://facebook.com
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer

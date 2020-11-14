@@ -1,23 +1,19 @@
 - icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: L'apparecchio
+  description: Trattamenti ortodontici personalizzati, per bambini ed adulti
 
 - icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Cosmetica
+  description: Trattamenti per ricostruire
 
 - icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  title: Sbiancamento
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 - icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: La dentiera
+  description: Protesi dentali con materiali e tecnologie all'avanguardia
 
 - icon: icon-ambulance
   title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Quando c'&egrave; un problema, ce ne prendiamo cura in fretta
